@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/y-ipsum/static/css/main.6ea095f4.chunk.css",
+    "main.js": "/y-ipsum/static/js/main.76a6094e.chunk.js",
+    "main.js.map": "/y-ipsum/static/js/main.76a6094e.chunk.js.map",
+    "runtime-main.js": "/y-ipsum/static/js/runtime-main.e176deb9.js",
+    "runtime-main.js.map": "/y-ipsum/static/js/runtime-main.e176deb9.js.map",
+    "static/js/2.befeda33.chunk.js": "/y-ipsum/static/js/2.befeda33.chunk.js",
+    "static/js/2.befeda33.chunk.js.map": "/y-ipsum/static/js/2.befeda33.chunk.js.map",
+    "index.html": "/y-ipsum/index.html",
+    "precache-manifest.f68ebec9def229bde1b90b5f54f0a991.js": "/y-ipsum/precache-manifest.f68ebec9def229bde1b90b5f54f0a991.js",
+    "service-worker.js": "/y-ipsum/service-worker.js",
+    "static/css/main.6ea095f4.chunk.css.map": "/y-ipsum/static/css/main.6ea095f4.chunk.css.map",
+    "static/js/2.befeda33.chunk.js.LICENSE.txt": "/y-ipsum/static/js/2.befeda33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e176deb9.js",
+    "static/js/2.befeda33.chunk.js",
+    "static/css/main.6ea095f4.chunk.css",
+    "static/js/main.76a6094e.chunk.js"
+  ]
+}
